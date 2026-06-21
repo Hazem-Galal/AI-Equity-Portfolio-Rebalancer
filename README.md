@@ -1,6 +1,17 @@
-# AI Equity Portfolio Rebalancer (n8n Agentic Workflow)
+# AI Equity Portfolio Rebalancer
 
-This repository contains an n8n AI-agent workflow that rebalances a portfolio toward a target allocation of 60% equity and 40% fixed income.
+![n8n](https://img.shields.io/badge/Built%20With-n8n-ef6d5a?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLM-OpenAI-10a37f?style=for-the-badge&logo=openai&logoColor=white)
+![Marketstack](https://img.shields.io/badge/Market%20Data-Marketstack-1e88e5?style=for-the-badge)
+![Google Sheets](https://img.shields.io/badge/Data%20Store-Google%20Sheets-34a853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Gmail](https://img.shields.io/badge/Reporting-Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)
+![Pushover](https://img.shields.io/badge/Notifications-Pushover-1b75bc?style=for-the-badge)
+
+Production-ready n8n agentic workflow that rebalances an equity portfolio to a 60/40 target, updates portfolio records, and sends reporting notifications.
+
+- Main workflow: [AI Equity Portfolio Rebalancer.json](AI%20Equity%20Portfolio%20Rebalancer.json)
+- Architecture: [docs/architecture-diagram.md](docs/architecture-diagram.md)
+- Repository: [Hazem-Galal/AI-Equity-Portfolio-Rebalancer](https://github.com/Hazem-Galal/AI-Equity-Portfolio-Rebalancer)
 
 The workflow is defined in [AI Equity Portfolio Rebalancer.json](AI%20Equity%20Portfolio%20Rebalancer.json).
 
