@@ -15,6 +15,18 @@ Production-ready n8n agentic workflow that rebalances an equity portfolio to a 6
 
 The workflow is defined in [AI Equity Portfolio Rebalancer.json](AI%20Equity%20Portfolio%20Rebalancer.json).
 
+## Table of Contents
+
+- [What This n8n Application Does](#what-this-n8n-application-does)
+- [Workflow Architecture Diagram](#workflow-architecture-diagram)
+- [n8n Canvas Screenshot](#n8n-canvas-screenshot)
+- [Enforced Tool Order in AI Agent](#enforced-tool-order-in-ai-agent)
+- [Allocation Logic Configured in Prompt](#allocation-logic-configured-in-prompt)
+- [Required Services/Credentials in n8n](#required-servicescredentials-in-n8n)
+- [Google Sheet Columns Expected](#google-sheet-columns-expected)
+- [How to Use in n8n](#how-to-use-in-n8n)
+- [Security Notes](#security-notes)
+
 ## What This n8n Application Does
 
 1. Starts from a form submission.
